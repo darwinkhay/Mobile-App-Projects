@@ -1,0 +1,32 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-finalprojectgym-staging-02826-authRole",
+      "UnauthRoleArn": "arn:aws:iam::142247949588:role/amplify-finalprojectgym-staging-02826-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::142247949588:role/amplify-finalprojectgym-staging-02826-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-finalprojectgym-staging-02826-deployment",
+      "UnauthRoleName": "amplify-finalprojectgym-staging-02826-unauthRole",
+      "StackName": "amplify-finalprojectgym-staging-02826",
+      "StackId": "arn:aws:cloudformation:us-east-1:142247949588:stack/amplify-finalprojectgym-staging-02826/e808ab50-7045-11ed-acbe-0a83a7eaf14d",
+      "AmplifyAppId": "dybtek6zmxecp"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dybtek6zmxecp",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "finalprojectgym3d4ccf99": {}
+      },
+      "api": {
+        "finalprojectgym": {}
+      },
+      "storage": {
+        "profilepics": {}
+      }
+    }
+  }
+}

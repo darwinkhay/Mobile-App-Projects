@@ -1,0 +1,18 @@
+{
+  "resourceName": "profilepics",
+  "policyUUID": "05d23044",
+  "bucketName": "projectpictures",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

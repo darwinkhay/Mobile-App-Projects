@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "finalprojectgym",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-11-30T04:30:11.918Z"
+}

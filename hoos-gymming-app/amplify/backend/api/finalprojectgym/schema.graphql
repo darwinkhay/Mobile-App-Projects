@@ -1,0 +1,10 @@
+type User @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  firstName: String
+  lastName: String
+  member_date: String
+  workout_history: AWSJSON
+  email: String
+  password: String
+}
+ 
